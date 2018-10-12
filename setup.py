@@ -20,7 +20,7 @@ setup(
       long_description = "SDP publish for NetDragon",
       license = "MIT Licence",
       
-      url = "",
+      url = "https://github.com/ZouMac/SDPPublishTool",
       author = "tanzou",
       author_email = "tanzou34@gmail.com",
       
